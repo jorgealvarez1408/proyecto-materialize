@@ -1,17 +1,6 @@
 nav{
     min-height: 150px;
-    padding-top: 1.5rem;
 }
-/*.contenedor-logo{
-    border: 1px solid black;
-    margin-top: 1rem;
-}*/
-/*.contenedor-enlaces{
-    border: 1px solid black;
-}*/
-/*.contenedor-slogan{
-    border: 1px solid black;
-}*/
-/*h1{
-    font-size: 20px;
-}*/
+.columna-logo img{
+    border-radius: 20px;
+}
