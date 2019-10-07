@@ -4,3 +4,10 @@ nav{
 .columna-logo img{
     border-radius: 20px;
 }
+.columna-izquierda div{
+    margin: 5px;
+}
+
+header{
+    margin-bottom: 4rem;
+}
