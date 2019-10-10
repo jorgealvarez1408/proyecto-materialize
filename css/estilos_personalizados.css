@@ -3,13 +3,12 @@ body{
     background: lightgreen url(../img/Paisaje_Cancun4.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: center;
-    background-origin: content-box;
+    background-position: bottom;
 }
 /*Estilos cabecera*/
-header{
+/*header{
     min-height: 200px;
-}
+}*/
 /*Estilos del encabezado*/
 nav{
     min-height: 150px;
