@@ -28,6 +28,12 @@ header nav div .slogan{
     font-family: 'Lobster', cursive;
     font-size: 20px;
 }
+.articulo img{
+    margin-top: 2%;
+    margin-right: 2%;
+    margin-bottom: 1%;
+    float: left;
+}
 p{
     font-family: 'Indie Flower', cursive;
 }
